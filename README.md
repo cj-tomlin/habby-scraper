@@ -27,6 +27,10 @@ python main.py
 ## Output
 - Results are saved to `data/results_by_country.csv` with columns: `country`, `price`, `currency`, `raw_button_text`.
 
+## View Cleaned Data
+You can view the cleaned and converted price data (best prices in euros) at this Google Sheets link:
+[View Cleaned Data](https://docs.google.com/spreadsheets/d/1I5tkjVzS70u_2ywnUJYRQnFFZ3vCkA7Fqs1z1h56E90/edit?usp=sharing)
+
 ## Notes
 - Requires Python 3.8+
 - Make sure your Oxylabs account is active and allows the required geographies.
